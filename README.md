@@ -15,7 +15,7 @@ and as a record of my computational work.
 
 | Project | Description | Implementations |
 | --- | --- | --- |
-| [PointVortex](https://github.com/jplaurie/PointVortex) | Two-dimensional point-vortex dynamics in the infinite plane, a periodic box, and a circular disk | C++20, OpenMP, MPI, CUDA |
+| [2dPointVortex](https://github.com/jplaurie/2dPointVortex) | Two-dimensional point-vortex dynamics in the infinite plane, a periodic box, and a circular disk | C++20, OpenMP, MPI, CUDA |
 | [2dNavierStokes](https://github.com/jplaurie/2dNavierStokes) | Dealiased pseudo-spectral solver for two-dimensional Navier–Stokes turbulence | C++20, FFTW, OpenMP, MPI, CUDA |
 | [2dGrossPitaevskii](https://github.com/jplaurie/2dGrossPitaevskii) | Pseudo-spectral Gross–Pitaevskii/nonlinear Schrödinger solver for Bose–Einstein condensates and nonlinear optics | C++20, FFTW, OpenMP, MPI, CUDA |
 | [1dSchrodingerHelmholtz](https://github.com/jplaurie/1dSchrodingerHelmholtz) | Dealiased pseudo-spectral solver for the one-dimensional Schrödinger–Helmholtz equation, its long-wave limit, and the cubic nonlinear Schrödinger equation | C++20, FFTW, OpenMP |
