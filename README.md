@@ -1,6 +1,6 @@
 # Jason Laurie
 
-**Applied mathematics · Fluid dynamics · Scientific computing**
+**Applied mathematics · Fluid dynamics · Wave turbulence · Nonlinear optics · Scientific computing**
 
 I am an applied mathematician and scientific programmer with a background in
 fluid dynamics, statistical physics, nonlinear waves, and turbulence. My work
@@ -19,9 +19,7 @@ and as a record of my computational work.
 | [2dNavierStokes](https://github.com/jplaurie/2dNavierStokes) | Dealiased pseudo-spectral solver for two-dimensional Navier–Stokes turbulence | C++20, FFTW, OpenMP, MPI, CUDA |
 | [2dGrossPitaevskii](https://github.com/jplaurie/2dGrossPitaevskii) | Pseudo-spectral Gross–Pitaevskii/nonlinear Schrödinger solver for Bose–Einstein condensates and nonlinear optics | C++20, FFTW, OpenMP, MPI, CUDA |
 
-These projects emphasise reproducible simulations, shared numerical models
-across execution backends, restartable runs, diagnostics, and cross-backend
-testing.
+These projects stem from the numerical codes that I have developed as part of my academic research. Each project includes backends for simulation on a single CPU, multiple CPUS, or an Nvidia GPU with CUDA. Simple analysis and plotting scripts are included in each project. 
 
 ## Research interests
 
